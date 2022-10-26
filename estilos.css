@@ -8,11 +8,18 @@
 		font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 		text-align: justify;
 	}
+	/*Este es un estilo que se va a aplicar directo en el id 'parrafo-especial'*/
 	#parrafo-especial {
 			color: coral;
 			font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 			text-align: justify;
 			font-size: 14px;
+	}
+	.texto-mediano-rojo{
+		color: red;
+			font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+			text-align: justify;
+			font-size: 22px;
 	}
 
 	h2 {
