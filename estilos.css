@@ -8,7 +8,15 @@
 		font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 		text-align: justify;
 	}
+	#parrafo-especial {
+			color: coral;
+			font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+			text-align: justify;
+			font-size: 14px;
+	}
 
 	h2 {
 		color: skyblue;
 	}
+
+	
